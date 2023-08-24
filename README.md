@@ -3,4 +3,4 @@
 ```bash
 python app.py
 ```
-![screenshot](predicted_heatmap_line_segmentation_masks_44.png)
+![screenshot](Backend/network/visualisations/pred_Becken2015-PA000003_0.png)
